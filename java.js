@@ -163,7 +163,7 @@ function Validacampos()
 
                                     alert('El formulario se ha enviado correctamente') ; 
                                     
-                                    return true;
+                                    //return true;
                                    
                                 }
                                  
